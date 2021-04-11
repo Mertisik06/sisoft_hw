@@ -4,7 +4,7 @@ Ekte gönderilen örnek sözlük bilgisini bir Tree (Trie) sınıfına yükleyen
 
 Örnek Çalışma Komutu,
 
-> Java MyTree sozluk.txt
+Java MyTree sozluk.txt
 Sözlük Yükleniyor. Lütfen Bekleyin...
 Sözlük Yüklendi.
 Bir Kelime Yazıp Enter Tuşuna Basınız
